@@ -1,5 +1,5 @@
 # pizzeriaWeb
-progetto prova 5AI
+progetto prova 5AI di Aiuky
 ogni sviluppatore deve aggiungere due portate nel proprio menù:
 -sviluppatore a: assegnato al menù pizze
 -sviluppatore b: assegnato al menù dolci
